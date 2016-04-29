@@ -7,7 +7,7 @@
         <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
         <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
         <script type="text/javascript">
-          var socket = io('localhost:3000');
+          var socket = io('smngr-socket.herokuapp.com:3000');
         </script>
         <!-- CSS And JavaScript -->
     </head>
